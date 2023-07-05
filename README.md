@@ -1,5 +1,5 @@
 
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+[![MasterHead]([https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)](https://miro.medium.com/v2/resize:fit:3200/0*de0IdiUSoJTwgsys.gif)
 <h1 align="center">Hi 👋, I'm Omar Tarek</h1>
 <h3 align="center"> A Front-End Developer from Cairo</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:3200/0*de0IdiUSoJTwgsys.gif">
