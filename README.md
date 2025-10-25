@@ -1,11 +1,11 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Omar Tarek</h1>
-<h3 align="center">Front-End Developer in Progress | HTML, CSS, JavaScript, Bootstrap</h3>
+<h3 align="center">Front-End Developer in Progress 🚀 | HTML, CSS, JavaScript, Bootstrap 💻</h3>
 
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=omartarekll&label=Profile%20views&color=0e75b6&style=flat" alt="omartarekll" />
-</p>
+</p> -->
 
 ---
 
